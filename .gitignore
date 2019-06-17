@@ -1,3 +1,14 @@
+.cargo/
+vendor
+vendor.tar
+debian/
+!debian/source
+!debian/changelog
+!debian/control
+!debian/copyright
+!debian/postinst
+!debian/prerm
+
 # FlameGraph script
 FlameGraph
 
